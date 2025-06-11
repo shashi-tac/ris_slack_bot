@@ -1,0 +1,1 @@
+worker: python ris_bot.py
